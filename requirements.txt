@@ -1,0 +1,10 @@
+gym==0.22.0
+gym-notices==0.0.8
+matplotlib==3.10.3
+numpy==1.25.2
+scipy==1.15.3
+seaborn==0.13.2
+torch==2.2.2
+torchaudio==2.2.2
+torchvision==0.17.2
+tqdm==4.67.1

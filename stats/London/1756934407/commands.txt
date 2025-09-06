@@ -1,0 +1,1 @@
+Env: London, Training Loops: 5000, Min replay size: 5000, lr: 0.002, discount: 0.8, n. MCTS: 25, batch size: 256, TD_return: True, Priority Buff: True, device: cpu, dirichlet_alpha: 0.25, buffer_size: 50000, TD_step: 10, N. disks: 3
